@@ -9,7 +9,8 @@ Problem Statement
 
 Flight delays can negatively impact airline operations, passenger satisfaction, airport efficiency, and overall aviation safety. Predicting potential delays before departure can help airlines and airport authorities take proactive measures to minimize disruptions.
 
-Objectives
+Objectives  
+
 Analyze flight operational and environmental data.
 Identify factors that contribute to flight delays.
 Build and compare multiple machine learning classification models.
