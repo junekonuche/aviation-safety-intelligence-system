@@ -29,18 +29,32 @@ Machine Learning Models
 The project evaluates several supervised learning algorithms, including:
 
 Logistic Regression
+
 K-Nearest Neighbors (KNN)
+
 Support Vector Machine (SVM)
+
 Decision Tree
+
 Random Forest
+
 Key Features
+
 Data cleaning and preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Correlation analysis
+
 Model training and evaluation
+
 Hyperparameter tuning
+
 Feature importance visualization
+
 Flight delay prediction system
+
+
 Project Impact
 
 This project demonstrates how machine learning can be applied in aviation to improve operational planning, enhance situational awareness, and support more efficient flight management through predictive analytics.
