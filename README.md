@@ -61,3 +61,8 @@ Flight delay prediction system
 Project Impact
 
 This project demonstrates how machine learning can be applied in aviation to improve operational planning, enhance situational awareness, and support more efficient flight management through predictive analytics.
+
+
+
+
+Link to the website - https://aviation-depth-view.lovable.app/
